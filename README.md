@@ -1,2 +1,2 @@
 # MyProject
-A practice project for learning primairily bluepring in Unreal
+A practice project for learning primairily blueprint in Unreal
